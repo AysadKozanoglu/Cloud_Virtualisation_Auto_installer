@@ -1,7 +1,6 @@
 Howto install Private Paas Cloud with KVM + webvirtmgr Wiki Documentation
 
-https://github.com/AysadKozanoglu/Cloud_Virtualisation_Auto_installer/wiki
-
+https://github.com/AysadKozanoglu/webvirtmgr/wiki/Install-WebVirtMgr-KVM-Cloud---Easy-auto-installer
 
 Screenshots
 
