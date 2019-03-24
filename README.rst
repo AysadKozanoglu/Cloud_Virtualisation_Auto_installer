@@ -54,7 +54,7 @@ The application logic is written in Python & Django. The LIBVIRT Python bindings
 Installation (Only web panel)
 -----------------------------
 
-`Install WebVirtMgr <https://github.com/AysadKozanoglu/webvirtmgr/wiki/Install-WebVirtMgr>`_
+`Install WebVirtMgr <https://github.com/AysadKozanoglu/webvirtmgr/wiki/Install-WebVirtMgr-KVM-Cloud---Easy-auto-installer>`_
 
 
 Setup host server (Server for VM's)
